@@ -1,4 +1,4 @@
-# CryptoZombies Game 🧟‍♂️
+# CryptoZombies Web3 Game 🧟‍♂️
 
 Welcome to the CryptoZombies Game repository! This project showcases my skills in blockchain development by implementing a unique and interactive game on the Ethereum blockchain.
 
